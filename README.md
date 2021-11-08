@@ -1,3 +1,6 @@
 # https://willtern1.github.io/AIM--Training/
 ## AIM--Training
-### HTML, CSS, JS
+
+### Стек: HTML, CSS, JS
+
+#### Игра для тренировки Aimа
